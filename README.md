@@ -20,7 +20,6 @@ It predicts the **popularity of a song (0–100)** using basic **linear regressi
 - Used gradient descent (no ML libraries like Scikit-learn)
 - Trained on full dataset (~232k songs)
 - Plotted cost vs iterations
-- Calculated R² score to measure performance
 - Predict song popularity with user input
 
 ## ⚠️ Limitations
